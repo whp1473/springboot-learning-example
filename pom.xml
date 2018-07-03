@@ -17,7 +17,7 @@
     <!-- Spring Boot WebFlux 实现 Restful 服务，基于 HTTP / JSON 传输 -->
     <module>springboot-webflux-2-restful</module>
 
-		<!-- 基础 – 入门篇 -->
+		<!-- 基础 – 入门篇1 -->
 		<!-- Spring Boot 之 HelloWorld 详解 -->
 		<module>springboot-helloworld</module>
 		<!-- Spring Boot 之配置文件详解 -->
